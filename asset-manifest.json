@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/ACNHProject/static/css/main.8c8b27cf.chunk.css",
+    "main.js": "/ACNHProject/static/js/main.130805c4.chunk.js",
+    "main.js.map": "/ACNHProject/static/js/main.130805c4.chunk.js.map",
+    "runtime-main.js": "/ACNHProject/static/js/runtime-main.fb9b3c86.js",
+    "runtime-main.js.map": "/ACNHProject/static/js/runtime-main.fb9b3c86.js.map",
+    "static/js/2.c4835a6f.chunk.js": "/ACNHProject/static/js/2.c4835a6f.chunk.js",
+    "static/js/2.c4835a6f.chunk.js.map": "/ACNHProject/static/js/2.c4835a6f.chunk.js.map",
+    "static/js/3.64c7a3e5.chunk.js": "/ACNHProject/static/js/3.64c7a3e5.chunk.js",
+    "static/js/3.64c7a3e5.chunk.js.map": "/ACNHProject/static/js/3.64c7a3e5.chunk.js.map",
+    "index.html": "/ACNHProject/index.html",
+    "static/css/main.8c8b27cf.chunk.css.map": "/ACNHProject/static/css/main.8c8b27cf.chunk.css.map",
+    "static/js/2.c4835a6f.chunk.js.LICENSE.txt": "/ACNHProject/static/js/2.c4835a6f.chunk.js.LICENSE.txt",
+    "static/media/logo.6ce24c58.svg": "/ACNHProject/static/media/logo.6ce24c58.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.fb9b3c86.js",
+    "static/js/2.c4835a6f.chunk.js",
+    "static/css/main.8c8b27cf.chunk.css",
+    "static/js/main.130805c4.chunk.js"
+  ]
+}
